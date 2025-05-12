@@ -374,8 +374,8 @@ Contact Page
 </body>
 </html>
 ```
-# OUTP!
-[alt text](<Screenshot 2025-05-12 224840.png>)UT:
+# OUTPUT:
+![alt text](<Screenshot 2025-05-12 224840.png>)
 ![alt text](<Screenshot 2025-05-12 224857.png>)
 ![alt text](<Screenshot 2025-05-12 224913.png>)
 ![alt text](<Screenshot 2025-05-12 224925.png>)
